@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # ⚽ FIFA 22 Player Rating Prediction
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 [![Analysis](https://img.shields.io/badge/Data%20Analysis-Pandas%20%7C%20NumPy-green.svg)](https://pandas.pydata.org/)
 [![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-lightblue.svg)](https://seaborn.pydata.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end Machine Learning project that predicts EA Sports **FIFA 22 Player Overall Ratings (`overall`)** using player physical attributes, technical skills, mental characteristics, and monetary statistics.
 
@@ -108,13 +106,12 @@ fifa22-player-rating-prediction/
 ├── ML_Project_FIFA.ipynb   # Main Jupyter Notebook containing EDA, ML Pipeline & Tuning
 ├── requirements.txt        # Python dependencies required to execute project
 ├── .gitignore              # Ignores byte code, checkpoints, OS files & datasets
-├── LICENSE                 # MIT Open Source License
 └── README.md               # Project documentation and summary report
 ```
 
 ---
 
-## 🚀 How to Run locally
+## 🚀 How to Run Locally
 
 ### 1. Clone the Repository
 ```bash
@@ -139,12 +136,3 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook ML_Project_FIFA.ipynb
    ```
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-=======
-# fifa22-player-rating-prediction
->>>>>>> d69a2f98bed9e491d711d7e4f998b0dadefa6a48
