@@ -72,18 +72,4 @@ fifa22-player-rating-prediction/
 
 ---
 
-## How to Run
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/fifa22-player-rating-prediction.git
-   cd fifa22-player-rating-prediction
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Notebook:**
-   Place `players_22.csv` in the project root folder and open `ML_Project_FIFA.ipynb` in Jupyter Notebook.
