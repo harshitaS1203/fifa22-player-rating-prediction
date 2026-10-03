@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ FIFA 22 Player Rating Prediction
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -144,3 +145,6 @@ pip install -r requirements.txt
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+=======
+# fifa22-player-rating-prediction
+>>>>>>> d69a2f98bed9e491d711d7e4f998b0dadefa6a48
